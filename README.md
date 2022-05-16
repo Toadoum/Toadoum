@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/toadoum/">
   <img align="left" alt="Sakayo Toadoum Sari" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://leetcode.com/user3797xE/">
+<a href="https://leetcode.com/Toadoum/">
   <img align="left" alt="Toadoum's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 <br />
