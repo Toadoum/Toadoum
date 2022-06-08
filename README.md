@@ -15,7 +15,7 @@ I'm [Sakayo Toadoum Sari](https://toadoum.github.io), a Master's student in Mach
 
 **Research Interest:**
 
-- 🔭 I am currenlty interested by Natural Language Processing in general and Computer Vision.<img src="https://media.giphy.com/media/WtOkaikiwaR87ZvAFH/giphy.gif" width="20px">
+- 🔭 I am currenlty interested by Natural Language Processing in general and Computer Vision.<img src="https://media.giphy.com/media/WtOkaikiwaR87ZvAFH/giphy.gif" width="10px">
 - 🌱 I will love working with speech and text data, with applications in language modelling and speech recognition
 - 👯 I will love to collaborate on research and projects about Machine Translation and Conversational AI. 
 - 📫 You can reach me at [Toadoum](https://www.linkedin.com/in/toadoum/)
@@ -31,4 +31,3 @@ I'm [Sakayo Toadoum Sari](https://toadoum.github.io), a Master's student in Mach
 
 
 [![Toadoum's github stats](https://github-readme-stats.vercel.app/api?username=Toadoum)](https://github.com/anuraghazra/github-readme-stats)
-
