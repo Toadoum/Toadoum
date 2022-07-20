@@ -11,7 +11,7 @@
 </a>
 <br />
 
-I'm [Sakayo Toadoum Sari](https://toadoum.github.io), a Master's student in Machine Intelligence at Africa Master's of Machine Intelligence [AMMI](https://aimsammi.org), Senegal. I am currently Intern 🙍🏽‍ in Data Sciences and Business Analytics at [Spark Foundation](https://www.thesparksfoundationsingapore.org) but before this, I was lead trainer in data at [Tech4Tchad](https://tech4tchad.org) & [Simplon.co](https://simplon.co). Beside's working with data, I am learning Web development with Django.
+I'm [Sakayo Toadoum Sari](https://toadoum.github.io), a Master's student in Machine Intelligence at Africa Master's of Machine Intelligence [AMMI](https://aimsammi.org), Senegal. I am currently Project Manager Intern 🙍🏽‍ in Machine Learning at [StemAway](https://stemaway.com) but before this, I was lead trainer in data at [Tech4Tchad](https://tech4tchad.org) & [Simplon.co](https://simplon.co). Beside's working with data, I am learning Web development with Django.
 
 **Research Interest:**
 
