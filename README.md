@@ -30,5 +30,5 @@ I'm [Sakayo Toadoum Sari](https://toadoum.github.io), a Master's student in Mach
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
 
 
-[![Toadoum's github stats](https://github-readme-stats.vercel.app/api?username=Toadoum&show_icons=true&theme=radical)
+![Toadoum's github stats](https://github-readme-stats.vercel.app/api?username=Toadoum&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toadoum&layout=compact)](https://github.com/Toadoum/github-readme-stats)
