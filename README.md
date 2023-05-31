@@ -11,7 +11,7 @@
 </a>
 <br />
 
-I'm [Sakayo Toadoum Sari](https://toadoum.github.io), a Master's student in Machine Intelligence at Africa Master's of Machine Intelligence [AMMI](https://aimsammi.org), Senegal. I am an Incoming Intern 🙍🏽‍ in Natural Language Processing at [Swiss Federal Institute of Technology Lausanne (École Polytechnique Fédérale de Lausanne)](https://www.epfl.ch/en/)(starting in June), Machine Learning Freelancer at [StemAway](https://stemaway.com)  and Lead Trainer in Data at [Tech4Tchad](https://tech4tchad.org) & [Simplon.co](https://simplon.co). Beside's working with data, I am learning Web development with Django.
+I'm [Sakayo Toadoum Sari](https://toadoum.github.io), a Master's student in Machine Intelligence at Africa Master's of Machine Intelligence [AMMI](https://aimsammi.org), Senegal. I am a Research Intern 🙍🏽‍ in Natural Language Processing at [Swiss Federal Institute of Technology Lausanne (École Polytechnique Fédérale de Lausanne)](https://www.epfl.ch/en/)(starting in June), Machine Learning Freelancer at [StemAway](https://stemaway.com)  and Lead Trainer in Data at [Tech4Tchad](https://tech4tchad.org) & [Simplon.co](https://simplon.co). Beside's working with data, I am learning Web development with Django.
 
 **Research Interest:**
 
@@ -31,6 +31,8 @@ I'm [Sakayo Toadoum Sari](https://toadoum.github.io), a Master's student in Mach
 <code><img height="20" src="https://www.svgrepo.com/show/353657/django-icon.svg"></code>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">
+
+
 
 
 
