@@ -11,7 +11,7 @@
 </a>
 <br />
 
-I'm [Sakayo Toadoum Sari](https://toadoum.github.io), I have a Master in Machine Intelligence from Africa Institute for Mathematical Sciences (AIMS), Senegal, Major, Africa Master's of Machine Intelligence [AMMI](https://aimsammi.org), Senegal. I am a Research Intern 🙍🏽‍ in Natural Language Processing at [Swiss Federal Institute of Technology Lausanne (École Polytechnique Fédérale de Lausanne)](https://www.epfl.ch/en/)(starting in June), Machine Learning Freelancer at [StemAway](https://stemaway.com)  and Lead Trainer in Data at [Tech4Tchad](https://tech4tchad.org) & [Simplon.co](https://simplon.co). Beside's working with data, I am learning Web development with Django.
+I'm [Sakayo Toadoum Sari](https://toadoum.github.io), I am currently NLP Manager at [Batazia](https://www.batazia.com/en) .I was a Research Intern 🙍🏽‍ in Natural Language Processing at [Swiss Federal Institute of Technology Lausanne (École Polytechnique Fédérale de Lausanne)](https://www.epfl.ch/en/) , NLP Engineer at [StemAway](https://stemaway.com)  and Lead Trainer in Data at [Tech4Tchad](https://tech4tchad.org) & [Simplon.co](https://simplon.co). Beside's working with data, I am learning Web development with Django. I have a Master's in Machine Intelligence from Africa Institute for Mathematical Sciences (AIMS), Senegal, Major, Africa Master's of Machine Intelligence [AMMI](https://aimsammi.org), Senegal. I have a Cooperative Master's in Industrial Mathematics with interest in Data Science from Africa Institute for Mathematical Sciences (AIMS), Cameroon and Research Master's in Electronic Electrical Engineering Automation from The University of Ngaoundere. 
 
 **Research Interest:**
 
