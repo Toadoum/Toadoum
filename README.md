@@ -1,40 +1,77 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# 👋 Hi there, I'm Sakayo Toadoum Sari
 
 <a href="https://twitter.com/ToadoumSari">
-  <img align="left" alt="Sakayo Toadoum Sari | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/toadoum/">
-  <img align="left" alt="Sakayo Toadoum Sari" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://toadoum.github.io">
+  <img align="left" alt="Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/internetexplorer.svg" />
 </a>
 <a href="https://leetcode.com/Toadoum/">
-  <img align="left" alt="Toadoum's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
-<br />
 
-I'm [Sakayo Toadoum Sari](https://toadoum.github.io), I am currently NLP Manager at [Batazia](https://www.batazia.com/en) .I was a Research Intern 🙍🏽‍ in Natural Language Processing at [Swiss Federal Institute of Technology Lausanne (École Polytechnique Fédérale de Lausanne)](https://www.epfl.ch/en/) , NLP Engineer at [StemAway](https://stemaway.com)  and Lead Trainer in Data at [Tech4Tchad](https://tech4tchad.org) & [Simplon.co](https://simplon.co). Beside's working with data, I am learning Web development with Django. I have a Master's in Machine Intelligence from Africa Institute for Mathematical Sciences (AIMS), Senegal, Major, Africa Master's of Machine Intelligence [AMMI](https://aimsammi.org), Senegal. I have a Cooperative Master's in Industrial Mathematics with interest in Data Science from Africa Institute for Mathematical Sciences (AIMS), Cameroon and Research Master's in Electronic Electrical Engineering Automation from The University of Ngaoundere. 
+<br/>
 
-**Research Interest:**
+---
 
-- 🔭 I am currenlty interested by Natural Language Processing in general and Computer Vision.
-- 🌱 I will love working with speech and text data, with applications in language modelling and speech recognition
-- 👯 I will love to collaborate on research and projects about Machine Translation and Conversational AI. 
-- 📫 You can reach me at [Toadoum](https://www.linkedin.com/in/toadoum/)
-- 😄 Pronouns: he/him
-- 📝[Resume](https://toadoum.github.io/images/cv.pdf)
+🎓 I'm a **PhD Candidate in Artificial Intelligence** at [CRIL Lab, Université d’Artois](https://www.cril.univ-artois.fr), working on **intertextuality**, **discourse semantics**, and **causal reasoning** in NLP.  
+🌍 I’m passionate about building inclusive AI for **low-resource languages**, with projects in **MT**, **ASR/TTS**, and **online discourse analysis**.
 
+---
 
-**Languages and Tools**
+### 🔬 Current Roles
+
+- **PhD Researcher in AI**, [CRIL Lab – Université d’Artois](https://www.cril.univ-artois.fr)
+- **Founder**, [EduAI Africa](https://github.com/Toadoum/EduAI-Africa): AI tutoring platform for African students
+- **NLP Engineer**, [Batazia](https://www.batazia.com) (low-resource language tech)
+- **ASR/TTS Researcher**, [CDIAL.ai](https://cdial.ai)
+- **Former Summer Intern**, NLP & Online Polarization @ [EPFL](https://www.epfl.ch)
+
+---
+
+### 🧠 Research Interests
+
+- Multilingual NLP & Language Modeling  
+- Machine Translation for African Languages  
+- Speech Technologies (ASR, TTS)  
+- Discourse & Ideology Detection  
+- Causal Reasoning in Language  
+- Ethical & Inclusive AI Systems
+
+---
+
+### 🛠️ Languages and Tools
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
 <code><img height="20" src="https://www.svgrepo.com/show/353657/django-icon.svg"></code>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/jupyter-notebook/jupyter-notebook.png"></code>
+<code><img height="20" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"></code>
+<code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
 
+---
 
+### 📄 Selected Publications
 
+- **Ngambay–French MT**, NLP4TIA @ RANLP 2023 – [arXiv](http://arxiv.org/abs/2308.13497)  
+- **MASAKHANEWS**, Topic Classification – [arXiv](https://arxiv.org/abs/2304.09972)  
+- **AfriCOMET & AfriMTE**, MT Evaluation for African Languages – [arXiv](https://arxiv.org/abs/2311.09828)  
+- *More on* [toadoum.github.io](https://toadoum.github.io)
 
+---
 
-![Toadoum's github stats](https://github-readme-stats.vercel.app/api?username=Toadoum&show_icons=true&theme=radical)
+### 📫 Let’s Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/toadoum/)
+- 🐦 [Twitter](https://twitter.com/ToadoumSari)
+- 🌐 [Website](https://toadoum.github.io)
+- ✉️ Email: sakayo@cril.fr
+
+---
+
+![Toadoum's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Toadoum&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toadoum&layout=compact)](https://github.com/Toadoum/github-readme-stats)
