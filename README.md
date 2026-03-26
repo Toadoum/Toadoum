@@ -22,12 +22,11 @@
 
 ---
 
-### 🔬 Current Roles
+### 🔬 Roles
 
 - **PhD Researcher in AI**, [CRIL Lab – Université d’Artois](https://www.cril.univ-artois.fr)
-- **Founder**, [EduAI Africa](https://github.com/Toadoum/EduAI-Africa): AI tutoring platform for African students
 - **NLP Engineer**, [Batazia](https://www.batazia.com) (low-resource language tech)
-- **ASR/TTS Researcher**, [CDIAL.ai](https://cdial.ai)
+- **Former ASR/TTS Researcher**, [CDIAL.ai](https://cdial.ai)
 - **Former Summer Intern**, NLP & Online Polarization @ [EPFL](https://www.epfl.ch)
 
 ---
