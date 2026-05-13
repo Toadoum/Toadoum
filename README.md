@@ -34,11 +34,8 @@ class Sakayo:
 | Project | What | Status |
 |:--------|:-----|:------:|
 | 🎓 **PhD Thesis** | Intertextuality & causal reasoning in discourse — CRIL Lab | `in progress` |
-| 🧬 **D-LoRA** | Adaptive rank allocation for parameter-efficient fine-tuning | `NeurIPS 2026` |
 | 📖 **IntertextMigra** | Detecting experiential intertextuality in migration narratives | `SIGDIAL 2026` |
 | 🔍 **MSS-Probing** | Probing with inclusion-minimality guarantees | `EMNLP 2026` |
-| 🌍 **PlotWeaver** | African language AI platform — ASR, TTS, MT (NVIDIA Inception) | `live` |
-| 🏈 **Hausa Voice Agent** | WhatsApp voice agent: ASR → intent → Hausa TTS | `POC complete` |
 
 ---
 
