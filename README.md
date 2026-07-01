@@ -31,7 +31,7 @@
 class Sakayo:
     role        = "PhD Candidate in AI @ CRIL-CNRS (UMR 8188), Université d'Artois"
     thesis      = "Intertextuality & Causality: Towards a Semantic Analysis of Discourses"
-    also        = "Founder & CEO @ PlotWeaver — voice AI for African languages (NVIDIA Inception)"
+    also        = "Lead NLP Engineer @ PlotWeaver — voice AI for African languages (NVIDIA Inception)"
     focus       = ["Discourse Semantics", "Causal Reasoning", "Formal Explainability (XAI)"]
     languages   = {"native": ["Mbay", "French"], "fluent": "English",
                    "shipped": ["Ngambay", "Hausa", "Yoruba", "Wolof", "..."]}
